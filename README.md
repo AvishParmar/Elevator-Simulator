@@ -1,1 +1,2 @@
 # Elevator-Simulator
+This program simulates an elevator as it moves through the floors. The user has the choice of running two types of simulations, normal simulation and optimal simulation. The normal simulation simulates an elevator which only carries one request at a time and only moves in one direction at a time until the request is fulfilled or the simulation ends. The optimal simulation simulates a more realistic scenario where an elevator can hold multiple requests, carrying out the request with the highest precendence (the oldest available request in its directory).
