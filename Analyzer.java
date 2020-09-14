@@ -5,10 +5,6 @@ import java.util.Scanner;
 /**
  * Analyzer class that acts as the main method of the program
  * @author Avish Parmar
- * SBUID: 112647892
- * Email: avish.parmar@stonybrook.edu
- * Course: CSE214
- * Recitation: Section 01
  */
 public class Analyzer {
 	
