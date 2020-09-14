@@ -2,10 +2,6 @@ package Homework3;
 /**
  * BooleanSource class used to determine if a request arrives or not.
  * @author Avish Parmar
- * SBUID : 112647892
- * Email: avish.parmar@stonybrook.edu
- * Course: CSE214
- * Recitation: Section 01
  */
 public class BooleanSource {
 	
