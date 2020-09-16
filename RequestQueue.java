@@ -1,15 +1,8 @@
-package Homework3;
-
-
 import java.util.LinkedList;
 import java.util.Queue;
 /**
  * RequestQueue class that stores all the requests in a queue
  * @author Avish Parmar
- * SBUID: 112647892
- * Email: avish.parmar@stonybrook.edu
- * Course: CSE214
- * Recitation: Section 01
  */
 @SuppressWarnings("serial")
 
