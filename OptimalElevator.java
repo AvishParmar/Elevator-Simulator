@@ -1,14 +1,8 @@
-package Homework3;
-
 import java.util.ArrayList;
 /**
  * OptimalElevator class that is used in place of the 
  * normal elevator class when an optimal simulation is run.
  * @author Avish Parmar
- * SBUID: 112647892
- * Email: avish.parmar@stonybrook.edu
- * Course: CSE214
- * Recitation: Section 01
  */
 public class OptimalElevator {
 	private int currentFloor;
