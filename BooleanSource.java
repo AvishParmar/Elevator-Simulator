@@ -1,4 +1,3 @@
-package Homework3;
 /**
  * BooleanSource class used to determine if a request arrives or not.
  * @author Avish Parmar
