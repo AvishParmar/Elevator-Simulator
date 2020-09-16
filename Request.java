@@ -1,11 +1,6 @@
-package Homework3;
 /**
  * Request class that that creates a request object
  * @author Avish Parmar
- * SBUID: 112647892
- * Email: avish.parmar@stonybrook.edu
- * Course: CSE214
- * Recitation: Section 01
  */
 public class Request {
 
